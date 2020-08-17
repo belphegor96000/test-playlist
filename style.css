@@ -1,11 +1,11 @@
 body {
-    background-color: rgb(27, 141, 170);
+    background-color: rgb(241, 233, 241);
 }
 
 h4 {
-    color: rgb(78, 187, 64);
+    color: rgb(9, 10, 9);
 }
 
-.div {
-    border: 3px rgb(211, 55, 102) solid;
+div {
+    border: 3px rgb(63, 233, 40) solid;
 }
